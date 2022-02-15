@@ -1,11 +1,12 @@
 # jobassingment
 
-requrements
+REQUIRMENT
 
 1-please install selenium and Beautifull soup 
 2- please change the directory and put your directory where we are opening  with pandas read_csv.
 3- please  change the directory  to your path select your path of the crome driver.
-4- please please install pytessract and openCV in order to run the captcha task
+4- please please install pytessract and openCV or cv2 in order to run the captcha task
+
 ________________________________________WARNING______________________________________________________________________________
 pytessarct is open source ocr  it accuracy is very less 
 so  many times it will not work but the it will work with paid ocr like GOOGLE OCR which  has high accuracy
